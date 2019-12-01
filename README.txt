@@ -1,3 +1,4 @@
+THIS IS ADDED FROM GIT COMMAND TO DEMONSTRATE PUSH COMMAND
 THIS LINE IS ADDED FROM GITHUB
 
 This is a sample project students can use during Matthew's Git class.
